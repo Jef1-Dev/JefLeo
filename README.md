@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jef</h1>
 <h3 align="center">Fullstack, A Random Person Doing Different Things</h3>
 
-* 🌍  I'm based in Porto Alegre
-* 🔭 I’m currently working on [NewTab](https://newtab-website.netlify.app/)
-* working on [Focus](https://jef.vercel.app/focus)
+* 🌍 I'm based in Porto Alegre
+* 🔭 I’m currently working on [NewTab](https://newtab-website.netlify.app/), [Focus](https://jef.vercel.app/focus) and in [others](https://jef.vercel.app/)
 * 🌱 I’m currently learning **Next.js, React, React-Native, Tailwind CSS, ElectronJs and more**
 * 👨‍💻 All of my projects are available at [Website](https://jef.vercel.app/)
 * ✉️  You can contact me at [jef](mailto:contact.dev.jef@gmail.com)
